@@ -1,0 +1,12 @@
+C:\Users\calos\source\repos\Login User\Login User\bin\Debug\Login User.exe.config
+C:\Users\calos\source\repos\Login User\Login User\bin\Debug\Login User.exe
+C:\Users\calos\source\repos\Login User\Login User\bin\Debug\Login User.pdb
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login User.csproj.AssemblyReference.cache
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login_User.Usuarios.resources
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login_User.Registro.resources
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login_User.IniciarSesion.resources
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login_User.Properties.Resources.resources
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login User.csproj.GenerateResource.cache
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login User.csproj.CoreCompileInputs.cache
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login User.exe
+C:\Users\calos\source\repos\Login User\Login User\obj\Debug\Login User.pdb
